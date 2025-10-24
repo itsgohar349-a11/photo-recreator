@@ -1,0 +1,5 @@
+{
+  "name": "Photo Scene Recreator",
+  "description": "Upload a photo of a person and a description of a new scene to generate realistic, professionally-shot images. The app preserves the person's identity while adapting their pose and lighting to the new environment, producing four distinct camera angles.",
+  "requestFramePermissions": []
+}
